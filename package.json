@@ -1,0 +1,22 @@
+{
+  "name": "dev_portfolio_page",
+  "version": "1.0.0",
+  "description": "personal portfolio page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Combatd/dev_portfolio_page.git"
+  },
+  "author": "mark calvelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Combatd/dev_portfolio_page/issues"
+  },
+  "homepage": "https://github.com/Combatd/dev_portfolio_page#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
