@@ -1,3 +1,17 @@
+@import './home.css';
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background: rgb(82, 73, 245);
+    background: dodgerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    font-size: 18px;
+    background: dodgerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
 }

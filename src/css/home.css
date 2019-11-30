@@ -1,4 +1,5 @@
 .home .info-section {
+    padding: 54px;
     width: 35%;
     position: absolute;
     top: 0;
@@ -7,23 +8,55 @@
 }
 
 .home .info-section .info-box {
-    padding: 54px;
     position: absolute;
     bottom: 60px;        
 }
 
+.home .info-section .logo {
+    background: white;
+    height: 100px;
+    width: 200px;
+}
+
 .home .info-section .info-box h4 {
     font-size: 1.2rem;
+    color: whitesmoke;
+    margin: 0.7rem 0;
 }
 
 .home .info-section .info-box p {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     font-weight: 300;
+    margin: 0.2rem 0 1.5rem;
 }
 
 .home .content-area {
     margin-left: 35%;
     background: white;
     width: 65%;
+    height: 100%;
+    /* padding: 0 0 0 25%; */
+}
+
+.home .content-area .profile-section {
+    
+}
+
+.home .content-area .profile-section .profile {
+    
+}
+
+.img-container {
+    width: 25%;
+    display: inline-block;
+}
+
+.img-container .user-img {
+  width: 400px;
+  height: 500px;  
+  background: url("https://ga-shop.s3.amazonaws.com/production/store/locationmasthead/11/image/retina-3af887010db0db7a24bcae3ab47100a7.jpg") no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
 
